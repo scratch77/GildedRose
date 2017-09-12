@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IItemUpdater.cs" />
-    <Compile Include="Updaters.cs" />
+    <Compile Include="ItemUpdaters.cs" />
     <Compile Include="ItemFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
